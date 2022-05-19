@@ -1,3 +1,7 @@
+#HUD Labels
+
+---
+
 | Label | Text |
 |:--:|:-----------:|
 |ACHIEVE_SR3_A_BETTER_PERSON | A BETTER PERSON|
