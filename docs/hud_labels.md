@@ -1131,35 +1131,35 @@
 |UNL_DESC_GANG_WEAPONS_SHOTGUN | Upgrade your gang members to carry Shotguns|
 |UNL_DESC_GANG_WEAPONS_SMG | Upgrade your gang members to carry SMGS|
 |UNL_DESC_GARAGE_TANK | Retrieve the Tank at your crib garage.|
-|UNL_DESC_GIANT_BALL_HOMIE | The GIANT BALL can be found in your Cell Phone |PHONE| menu. Crush everything!|
+|UNL_DESC_GIANT_BALL_HOMIE | The GIANT BALL can be found in your Cell Phone 'PHONE' menu. Crush everything!|
 |UNL_DESC_HEALTH_REGEN_1 | Health regenerates slightly faster|
 |UNL_DESC_HEALTH_REGEN_2 | Health regenerates faster|
 |UNL_DESC_HEALTH_REGEN_3 | Health regenerates much faster|
 |UNL_DESC_HEALTH_REGEN_4 | Health regenerates extremely fast|
 |UNL_DESC_HELIASSAULT | You have unlocked more of the HELI ASSAULT Activity. Check your MAP for locations.|
 |UNL_DESC_HIDDEN | This upgrade is hidden until you discover it|
-|UNL_DESC_HOMIE_ANGEL | Angel can be found in your Cell Phone |PHONE| menu. He will help the Saints in combat.|
+|UNL_DESC_HOMIE_ANGEL | Angel can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
 |UNL_DESC_HOMIE_HEALTH_1 | All followers get a 10%% health increase|
 |UNL_DESC_HOMIE_HEALTH_2 | All followers get a 20%% health increase|
 |UNL_DESC_HOMIE_HEALTH_3 | All followers get a 30%% health increase|
-|UNL_DESC_HOMIE_HELI | Heli Homie can be found in your Cell Phone |PHONE| menu. He will deliver a helicopter to you in combat.|
+|UNL_DESC_HOMIE_HELI | Heli Homie can be found in your Cell Phone 'PHONE' menu. He will deliver a helicopter to you in combat.|
 |UNL_DESC_HOMIE_HP_INCREASE_1 | Homies get a small health boost|
 |UNL_DESC_HOMIE_HP_INCREASE_2 | Homies get a medium health boost|
 |UNL_DESC_HOMIE_HP_INCREASE_3 | Homies get a large health boost|
-|UNL_DESC_HOMIE_JOSH | Josh can be found in your Cell Phone |PHONE| menu. He will help the Saints in combat.|
-|UNL_DESC_HOMIE_KINZIE | Kinzie can be found in your Cell Phone |PHONE| menu. She will help the Saints in combat.|
+|UNL_DESC_HOMIE_JOSH | Josh can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
+|UNL_DESC_HOMIE_KINZIE | Kinzie can be found in your Cell Phone 'PHONE' menu. She will help the Saints in combat.|
 |UNL_DESC_HOMIE_MAYOR_REYNOLDS | Mayor Burt Reynolds can be found in your Cell Phone |PHONE| menu. He will help the Saints in combat.|
-|UNL_DESC_HOMIE_NYTEBLAYDE | Nyteblayde can be found in your Cell Phone |PHONE| menu. He will help the Saints in combat.|
-|UNL_DESC_HOMIE_OLEG | Oleg can be found in your Cell Phone |PHONE| menu. He will help the Saints in combat.|
-|UNL_DESC_HOMIE_PIERCE | Pierce can be found in your Cell Phone |PHONE| menu. He will help the Saints in combat.|
-|UNL_DESC_HOMIE_REPAIR | Repair Homie can be found in your Cell Phone |PHONE| menu. He will repair your current vehicle.|
-|UNL_DESC_HOMIE_SHAUNDI | Shaundi can be found in your Cell Phone |PHONE| menu. She will help the Saints in combat.|
-|UNL_DESC_HOMIE_TANK | Tank Homie can be found in your Cell Phone |PHONE| menu. He will deliver a tank to you in combat.|
-|UNL_DESC_HOMIE_VIOLA | Viola can be found in your Cell Phone |PHONE| menu. She will help the Saints in combat.|
-|UNL_DESC_HOMIE_VTOL | VTOL Homie can be found in your Cell Phone |PHONE| menu. He will deliver a VTOL to you in combat.|
-|UNL_DESC_HOMIE_WEAPONS | Weapons Homie can be found in your Cell Phone |PHONE| menu. He will come ready for battle with a full arsenal of weapons.|
+|UNL_DESC_HOMIE_NYTEBLAYDE | Nyteblayde can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
+|UNL_DESC_HOMIE_OLEG | Oleg can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
+|UNL_DESC_HOMIE_PIERCE | Pierce can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
+|UNL_DESC_HOMIE_REPAIR | Repair Homie can be found in your Cell Phone 'PHONE' menu. He will repair your current vehicle.|
+|UNL_DESC_HOMIE_SHAUNDI | Shaundi can be found in your Cell Phone 'PHONE' menu. She will help the Saints in combat.|
+|UNL_DESC_HOMIE_TANK | Tank Homie can be found in your Cell Phone 'PHONE' menu. He will deliver a tank to you in combat.|
+|UNL_DESC_HOMIE_VIOLA | Viola can be found in your Cell Phone 'PHONE' menu. She will help the Saints in combat.|
+|UNL_DESC_HOMIE_VTOL | VTOL Homie can be found in your Cell Phone 'PHONE' menu. He will deliver a VTOL to you in combat.|
+|UNL_DESC_HOMIE_WEAPONS | Weapons Homie can be found in your Cell Phone 'PHONE' menu. He will come ready for battle with a full arsenal of weapons.|
 |UNL_DESC_HOMIE_ZGAT | BRAAAAAAAINS|
-|UNL_DESC_HOMIE_ZIMOS | Zimos can be found in your Cell Phone |PHONE| menu. He will help the Saints in combat.|
+|UNL_DESC_HOMIE_ZIMOS | Zimos can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
 |UNL_DESC_INCOME_DECKER_1 | You now receive a 5%% bonus to Hourly City Income from the Stanfield district.|
 |UNL_DESC_INCOME_DECKER_2 | You now receive a 10%% bonus to Hourly City Income from the Stanfield district.|
 |UNL_DESC_INCOME_DECKER_3 | You now receive a 15%% bonus to Hourly City Income from the Stanfield district.|
