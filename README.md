@@ -1,4 +1,2 @@
 # SR3MP-Docs
-SR3MP docs to help developers creating mods with our custom framework.
-
-dsqdqsdsq
+SR3MP docs to help developers creating mods with our custom framework dsqdsqdsqqsd.
