@@ -1,116 +1,14 @@
-## Client
+# Client
 
-- [Test](#test)
+## Audio
+
+- [Play2D](#play2D)
 
 ---
 
-### Test
-This is a test function description.
+### Play2D
+Return audio index.
 
 ```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
-```
----
-
-### Test
-This is a test function description.
-
-```lua
-Test(_eventName, _callback)
+Play2D(_audioId --[[ integer ]])
 ```
