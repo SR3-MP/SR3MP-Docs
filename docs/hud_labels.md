@@ -1148,7 +1148,7 @@
 |UNL_DESC_HOMIE_HP_INCREASE_3 | Homies get a large health boost|
 |UNL_DESC_HOMIE_JOSH | Josh can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
 |UNL_DESC_HOMIE_KINZIE | Kinzie can be found in your Cell Phone 'PHONE' menu. She will help the Saints in combat.|
-|UNL_DESC_HOMIE_MAYOR_REYNOLDS | Mayor Burt Reynolds can be found in your Cell Phone |PHONE| menu. He will help the Saints in combat.|
+|UNL_DESC_HOMIE_MAYOR_REYNOLDS | Mayor Burt Reynolds can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
 |UNL_DESC_HOMIE_NYTEBLAYDE | Nyteblayde can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
 |UNL_DESC_HOMIE_OLEG | Oleg can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
 |UNL_DESC_HOMIE_PIERCE | Pierce can be found in your Cell Phone 'PHONE' menu. He will help the Saints in combat.|
