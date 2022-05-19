@@ -467,7 +467,7 @@
 |TUT_ANNIHILATOR | Lock-on to vehicle targets by Zooming {SHOULDER_CAMERA_IMG}. Control the launched rocket by aiming your reticule.|
 |TUT_BARNSTORMING_NEW | While flying through the city look for difficult spots to fly through and give it a shot. You might earn extra respect for it!|
 |TUT_CAR_SHOOTING | {FIREARM_IMG} FIRE PRIMARY WEAPON {ATTACK_SECONDARY_IMG} THROW GRENADE|
-|TUT_CASH_INCOME | $%ls is available in your Cell Phone |CASH| menu. Each hour you earn $%ls City Income from owning territory in Steelport.|
+|TUT_CASH_INCOME | $%ls is available in your Cell Phone 'CASH' menu. Each hour you earn $%ls City Income from owning territory in Steelport.|
 |TUT_CHALLENGES | Challenges provide bonuses for accomplishing difficult tasks. Track your progress through SaintsBook {MAP_MENU_IMG}.|
 |TUT_CHARGE_WEAPON | HOLD {ATTACK_PRIMARY_IMG} CHARGE BLAST|
 |TUT_CHOPSHOP | {MAP_MENU_IMG} ACCESS SAINTSBOOK Vehicle Theft targets are now available in SaintsBook. Find and steal them for quick cash.|
