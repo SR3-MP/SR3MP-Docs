@@ -2,7 +2,7 @@
 
 ## Audio
 
-- [Play2D](#play2D)
+- [Audio.Play2D](#play2D)
 
 ---
 
