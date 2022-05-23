@@ -26,3 +26,11 @@ local id = GetId(audioName --[[ string ]])
 ```lua
 local isPlaying = IsPlaying(audioId --[[ integer ]])
 ```
+
+| test1 | test2 |
+|:--:|:-----------:|
+| Audio.IsPlaying | ### IsPlaying
+
+```lua
+local isPlaying = IsPlaying(audioId --[[ integer ]])
+``` |
