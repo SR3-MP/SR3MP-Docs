@@ -1,4 +1,4 @@
-# 👋 Welcome to SR3MP Documentation !
+# Welcome to SR3MP Documentation !
 
 ---
 
