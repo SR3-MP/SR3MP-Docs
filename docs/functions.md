@@ -2,9 +2,9 @@
 
 ---
 
-- [Audio.Play2D](#play2D)
-- [Audio.GetId](#getId)
-- [Audio.IsPlaying](#isPlaying)
+- [Audio.Play2D](#/functions#play2D)
+- [Audio.GetId](#/functions#getId)
+- [Audio.IsPlaying](#/functions#isPlaying)
 
 ---
 
