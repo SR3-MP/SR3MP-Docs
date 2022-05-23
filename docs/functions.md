@@ -8,23 +8,21 @@
 
 ---
 
-<sub>
-Play2D
+### Play2D
 Return audio index.
 
 ```lua
 Play2D(_audioId --[[ integer ]])
 ```
 
-GetId
+### GetId
 
 ```lua
 local id = GetId(audioName --[[ string ]])
 ```
 
-IsPlaying
+### IsPlaying
 
 ```lua
 local isPlaying = IsPlaying(audioId --[[ integer ]])
 ```
-</sub>
