@@ -2,8 +2,6 @@
 
 ---
 
-### Audio
-
 - [Audio.Play2D](#play2D)
 - [Audio.GetId](#getId)
 - [Audio.IsPlaying](#isPlaying)
