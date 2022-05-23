@@ -8,25 +8,23 @@
 
 ---
 
-### Play2D
+<sub>
+Play2D
 Return audio index.
 
 ```lua
 Play2D(_audioId --[[ integer ]])
 ```
 
-### GetId
+GetId
 
 ```lua
 local id = GetId(audioName --[[ string ]])
 ```
 
-### IsPlaying
+IsPlaying
 
 ```lua
 local isPlaying = IsPlaying(audioId --[[ integer ]])
 ```
-
-| test1 | test2 |
-|:--:|:-----------:|
-| Audio.IsPlaying | ### IsPlaying ```lualocal isPlaying = IsPlaying(audioId --[[ integer ]])``` |
+</sub>
