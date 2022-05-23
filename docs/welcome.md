@@ -1,4 +1,4 @@
-# 👋 Welcome to SR3MP Documentation !
+# U+1F44B Welcome to SR3MP Documentation !
 
 ---
 
