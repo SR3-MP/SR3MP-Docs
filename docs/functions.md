@@ -2,7 +2,7 @@
 
 ---
 
-## Audio
+## [ Audio ]
 
 #### Audio.Play2D
 Return audio index.
