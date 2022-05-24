@@ -40,9 +40,9 @@ All markers ids:
 
 The last parameter has 3 modes:
 
-```lua
+`lua
 1 = Normal, 2 = Show Distance, 3 = Wave Around
-```
+`
 
 ```lua
 UI.CreateMarker(entity --[[ integer ]], id --[[ integer ]], type --[[ integer ]])
