@@ -25,7 +25,7 @@ local isPlaying = Audio.IsPlaying(audioId --[[ integer ]])
 
 ## UI
 
-#### UI.CreateMarker
+#### **UI.CreateMarker**
 Create a 2D marker in world space on top of a specific entity.
 
 All markers ids:
