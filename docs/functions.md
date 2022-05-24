@@ -11,15 +11,11 @@ Return audio index.
 Audio.Play2D(_audioId --[[ integer ]])
 ```
 
----
-
 #### Audio.GetId
 
 ```lua
 local id = Audio.GetId(audioName --[[ string ]])
 ```
-
----
 
 #### Audio.IsPlaying
 
