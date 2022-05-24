@@ -4,20 +4,20 @@
 
 ## Audio
 
-#### Audio.Play2D
+#### __Audio.Play2D__
 Return audio index.
 
 ```lua
 Audio.Play2D(_audioId --[[ integer ]])
 ```
 
-#### Audio.GetId
+#### __Audio.GetId__
 
 ```lua
 local id = Audio.GetId(audioName --[[ string ]])
 ```
 
-#### Audio.IsPlaying
+#### __Audio.IsPlaying__
 
 ```lua
 local isPlaying = Audio.IsPlaying(audioId --[[ integer ]])
