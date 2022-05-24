@@ -38,11 +38,7 @@ All markers ids:
 
 ![Mg5Ej6d](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/Mg5Ej6d.jpg)
 
-The last parameter has 3 modes:
-
-`lua
-1 = Normal, 2 = Show Distance, 3 = Wave Around
-`
+The last parameter has 3 modes: `1 = Normal, 2 = Show Distance, 3 = Wave Around`
 
 ```lua
 UI.CreateMarker(entity --[[ integer ]], id --[[ integer ]], type --[[ integer ]])
