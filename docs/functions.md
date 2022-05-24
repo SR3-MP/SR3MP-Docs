@@ -5,6 +5,7 @@
 - [Audio.Play2D](#/functions#play2D)
 - [Audio.GetId](#/functions#getId)
 - [Audio.IsPlaying](#/functions#isPlaying)
+- [UI.CreateMarker](#/functions#createMarker)
 
 ---
 
