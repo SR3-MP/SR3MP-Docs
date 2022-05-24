@@ -1,7 +1,9 @@
 # Functions
 
 ---
+---
 ## Audio
+---
 ---
 
 #### Audio.Play2D
@@ -28,9 +30,9 @@ local isPlaying = Audio.IsPlaying(audioId --[[ integer ]])
 ```
 
 ---
-
+---
 ## UI
-
+---
 ---
 
 #### UI.CreateMarker
