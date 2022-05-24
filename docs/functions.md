@@ -1,10 +1,8 @@
 # Functions
 
----
----
+----
 ## Audio
----
----
+----
 
 #### Audio.Play2D
 Return audio index.
@@ -29,11 +27,9 @@ local id = Audio.GetId(audioName --[[ string ]])
 local isPlaying = Audio.IsPlaying(audioId --[[ integer ]])
 ```
 
----
----
+----
 ## UI
----
----
+----
 
 #### UI.CreateMarker
 Create a 2D marker in world space on top of a specific entity.
