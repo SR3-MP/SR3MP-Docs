@@ -2,26 +2,32 @@
 
 ---
 
-### Audio.Play2D
+## Audio
+
+#### Audio.Play2D
 Return audio index.
 
 ```lua
 Audio.Play2D(_audioId --[[ integer ]])
 ```
 
-### Audio.GetId
+#### Audio.GetId
 
 ```lua
 local id = Audio.GetId(audioName --[[ string ]])
 ```
 
-### Audio.IsPlaying
+#### Audio.IsPlaying
 
 ```lua
 local isPlaying = Audio.IsPlaying(audioId --[[ integer ]])
 ```
 
-### UI.CreateMarker
+---
+
+## UI
+
+#### UI.CreateMarker
 Create a 2D marker in world space on top of a specific entity.
 
 All markers ids:
