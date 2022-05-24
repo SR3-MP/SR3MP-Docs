@@ -40,7 +40,7 @@ All markers ids:
 
 The last parameter has 3 modes:
 
-```json
+```lua
 1 = Normal, 2 = Show Distance, 3 = Wave Around
 ```
 
