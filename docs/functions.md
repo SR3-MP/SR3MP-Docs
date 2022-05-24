@@ -1,8 +1,6 @@
 # Functions
 
 ---
-
----
 ## Audio
 ---
 
@@ -13,11 +11,15 @@ Return audio index.
 Audio.Play2D(_audioId --[[ integer ]])
 ```
 
+---
+
 #### Audio.GetId
 
 ```lua
 local id = Audio.GetId(audioName --[[ string ]])
 ```
+
+---
 
 #### Audio.IsPlaying
 
@@ -43,3 +45,5 @@ The last parameter has 3 modes: `1 = Normal, 2 = Show Distance, 3 = Wave Around`
 ```lua
 UI.CreateMarker(entity --[[ integer ]], id --[[ integer ]], type --[[ integer ]])
 ```
+
+---
