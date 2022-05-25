@@ -14,13 +14,13 @@ Audio.Play2D(_audioId --[[ integer ]])
 #### __Audio.GetId__
 
 ```lua
-local id = Audio.GetId(audioName --[[ string ]])
+local id = Audio.GetId(_audioName --[[ string ]])
 ```
 
 #### __Audio.IsPlaying__
 
 ```lua
-local isPlaying = Audio.IsPlaying(audioId --[[ integer ]])
+local isPlaying = Audio.IsPlaying(_audioId --[[ integer ]])
 ```
 
 ## UI
@@ -35,14 +35,14 @@ All markers ids:
 The last parameter has 3 modes: `1 = Normal, 2 = Show Distance, 3 = Wave Around`
 
 ```lua
-UI.CreateMarker(entity --[[ integer ]], id --[[ integer ]], type --[[ integer ]])
+UI.CreateMarker(_entity --[[ integer ]], _id --[[ integer ]], _type --[[ integer ]])
 ```
 
 #### __UI.RemoveMarker__
 Remove current marker on a specific entity if one exist.
 
 ```lua
-UI.RemoveMarker(entity --[[ integer ]])
+UI.RemoveMarker(_entity --[[ integer ]])
 ```
 
 #### __UI.AddObjectiveWaypoint__
@@ -74,5 +74,5 @@ local coords --[[ vector3 ]] = UI.GetObjectiveWaypointCoords()
 #### __UI.SetHUDActive__
 
 ```lua
-UI.SetHUDActive(toggle --[[ boolean ]])
+UI.SetHUDActive(_toggle --[[ boolean ]])
 ```
