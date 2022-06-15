@@ -2,13 +2,7 @@
 
 ---
 
-## Plane
-
-| Picture | Vehicle | Model Name |
-|:-------:|:-------:|:----------:|
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/ab_destroyer.jpg "Plane") | AB Destroyer | plane_fighter02 |
-
-## Car
+## Cars
 
 | Picture | Vehicle | Model Name |
 |:-------:|:-------:|:----------:|
@@ -18,3 +12,15 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/asp.jpg "Car") | ASP | sp_tank02 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/atlantica.jpg "Car") | Atlantica | suv_4dr_Luxury07 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/attrazione.jpg "Car") | Attrazione | car_2dr_exoticsports01 |
+
+## Bikes
+
+| Picture | Vehicle | Model Name |
+|:-------:|:-------:|:----------:|
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/angry_tiger.jpg "Bike") | Angry Tiger | bike_exotic01_Genki |
+
+## Planes
+
+| Picture | Vehicle | Model Name |
+|:-------:|:-------:|:----------:|
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/ab_destroyer.jpg "Plane") | AB Destroyer | plane_fighter02 |
