@@ -24,3 +24,9 @@
 | Picture | Vehicle | Model Name |
 |:-------:|:-------:|:----------:|
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/ab_destroyer.jpg "Plane") | AB Destroyer | plane_fighter02 |
+
+## VTOLs
+
+| Picture | Vehicle | Model Name |
+|:-------:|:-------:|:----------:|
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/aegean.jpg "VTOL") | Aegean | sp_ufo02 |
