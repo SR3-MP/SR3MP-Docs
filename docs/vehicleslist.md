@@ -30,3 +30,4 @@
 | Picture | Vehicle | Model Name |
 |:-------:|:-------:|:----------:|
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/aegean.jpg "VTOL") | Aegean | sp_ufo02 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/aegean.jpg "VTOL") | Aegean (Cutscene) | sp_ufo02_cs |
