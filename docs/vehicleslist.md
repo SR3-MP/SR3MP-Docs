@@ -8,8 +8,6 @@
 |:-------:|:-------:|:----------:|
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/ab_destroyer.jpg "Plane") | AB Destroyer | plane_fighter02 |
 
----
-
 ## Car
 
 | Picture | Vehicle | Model Name |
