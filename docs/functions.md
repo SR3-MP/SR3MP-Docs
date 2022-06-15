@@ -8,7 +8,7 @@
 Return audio id.
 
 ```lua
-local audioId = Audio.Play(_audioCategory --[[ string ]], _audioClip --[[ string ]])
+local audioId --[[ integer ]] = Audio.Play(_audioCategory --[[ string ]], _audioClip --[[ string ]])
 ```
 
 #### __Audio.Stop__
@@ -18,6 +18,20 @@ Audio.Stop(_audioId --[[ integer ]])
 ```
 
 ## UI
+
+#### __UI.SetHUDActive__
+Toggle game HUD visibility. (If game HUD is hidden, interaction features are locked)
+
+```lua
+UI.SetHUDActive(_toggle --[[ boolean ]])
+```
+
+#### __UI.IsHUDActive__
+Return if game HUD is currently visible.
+
+```lua
+local isVisible --[[ boolean ]] = UI.IsHUDActive()
+```
 
 #### __UI.CreateMarker__
 Create a 2D marker in world space on top of a specific entity.
