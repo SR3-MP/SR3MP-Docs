@@ -78,9 +78,3 @@ local exist = UI.IsObjectiveWaypointExist()
 ```lua
 local coords --[[ vector3 ]] = UI.GetObjectiveWaypointCoords()
 ```
-
-#### __UI.SetHUDActive__
-
-```lua
-UI.SetHUDActive(_toggle --[[ boolean ]])
-```
