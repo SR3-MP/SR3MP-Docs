@@ -19,6 +19,14 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/bootleggertest.jpg "Car") | Bootlegger (Debug) | car_4dr_police02test |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/bulldog.jpg "Car") | Bulldog | suv_4dr_luxury05 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/bulldog_military.jpg "Car") | Bulldog (Military) | suv_4dr_luxury05T |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/challenger.jpg "Car") | Challenger | sp_tank01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/churchill.jpg "Car") | Churchill | car_4dr_standard07 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/compensator.jpg "Car") | Compensator | truck_4dr_pickup04 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/cosmos.jpg "Car") | Cosmos | car_2dr_standard03 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/criminal.jpg "Car") | Criminal | truck_4dr_pickup07 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/criminal_2.jpg "Car") | Criminal 2 | truck_4dr_pickup07_yrn |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/crusader.jpg "Car") | Crusader | sp_tank03 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/crusader_2.jpg "Car") | Crusader 2 | sp_tank03_Reward |
 
 ## Bikes
 
@@ -26,6 +34,12 @@
 |:-------:|:-------:|:----------:|
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/angry_tiger.jpg "Bike") | Angry Tiger | bike_exotic01_Genki |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/bloody_canoness.jpg "Bike") | Bloody Canoness | bike_BC01 |
+
+## Boats
+
+| Picture | Vehicle | Model Name |
+|:-------:|:-------:|:----------:|
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/commander.jpg "Boat") | Commander | boat_speed04 |
 
 ## Planes
 
@@ -39,3 +53,4 @@
 |:-------:|:-------:|:----------:|
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/aegean.jpg "VTOL") | Aegean | sp_ufo02 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/aegean.jpg "VTOL") | Aegean (Cutscene) | sp_ufo02_cs |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/condor_vtol.jpg "VTOL") | Condor | sp_vtol02 |
