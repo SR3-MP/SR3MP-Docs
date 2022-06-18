@@ -114,6 +114,15 @@
 |:-------:|:-------:|:----------:|
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/eagle.jpg "Heli") | Eagle | heli_fighter_03 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/eagle_glitched.jpg "Heli") | Eagle (Glitched) | heli_fighter_03_mad |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/heist_heli_glitched.jpg "Heli") | Heist Heli (Glitched) | heli_standard_04_heist |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/ms05.jpg "Heli") | MS05 | heli_fighter_03_MS05 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/oppressor.jpg "Heli") | Oppressor | heli_4dr_police01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/oppressor_2.jpg "Heli") | Oppressor 2 | heli_4dr_police02 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/oppressor_3.jpg "Heli") | Oppressor 3 | heli_4dr_police_DLC |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/stork.jpg "Heli") | Stork | heli_standard_04 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/thompson.jpg "Heli") | Thompson | heli_standard_02 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/tornado.jpg "Heli") | Tornado | heli_fighter_01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/vulture.jpg "Heli") | Vulture | heli_fighter_02 |
 
 ## VTOLs
 
