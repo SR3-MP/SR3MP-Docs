@@ -9,14 +9,12 @@
 | Picture | Vehicle | Model Name |
 |:-------:|:-------:|:----------:|
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/alaskan.jpg "Car") | Alaskan | suv_4dr_06 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/ambulance.jpg "Car") | Ambulance | sp_ambulance01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/anchor.jpg "Car") | Anchor | van_4dr_news01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/asp.jpg "Car") | ASP | sp_tank02 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/atlantica.jpg "Car") | Atlantica | suv_4dr_Luxury07 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/attrazione.jpg "Car") | Attrazione | car_2dr_exoticsports01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/bear.jpg "Car") | Bear | sp_apc01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/blade.jpg "Car") | Blade | car_2dr_exoticsports10 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/blaze.jpg "Car") | Blaze | truck_2dr_fire01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/bootlegger.jpg "Car") | Bootlegger | car_2dr_muscle02 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/bootleggertest.jpg "Car") | Bootlegger (Debug) | car_4dr_police02test |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/bulldog.jpg "Car") | Bulldog | suv_4dr_luxury05 |
@@ -25,16 +23,12 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/churchill.jpg "Car") | Churchill | car_4dr_standard07 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/compensator.jpg "Car") | Compensator | truck_4dr_pickup04 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/cosmos.jpg "Car") | Cosmos | car_2dr_standard03 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/criminal.jpg "Car") | Criminal | truck_4dr_pickup07 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/criminal_2.jpg "Car") | Criminal 2 | truck_4dr_pickup07_yrn |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/crusader.jpg "Car") | Crusader | sp_tank03 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/crusader_2.jpg "Car") | Crusader 2 | sp_tank03_Reward |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/donovan.jpg "Car") | DonoVan | sp_shortbus01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/emu.jpg "Car") | Emu | car_2dr_compact08 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/flatbed.jpg "Car") | Flatbed | truck_2dr_flatbed01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/gat_mobile.jpg "Car") | GAT Mobile | sp_gat01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_cannon.jpg "Car") | Genki Cannon | sp_genki_cannon |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_manapult.jpg "Car") | Genki Manapult | truck_2dr_classic01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_mobile.jpg "Car") | Genki Mobile | car_4dr_genki |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/go.jpg "Car") | Go | car_2dr_standard06 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/halberd.jpg "Car") | Halberd | car_2dr_compact04 |
@@ -47,8 +41,6 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/keystone.jpg "Car") | Keystone | wagon_4dr_sprt01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/knoxville.jpg "Car") | Knoxville | sp_cart01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/lockdown.jpg "Car") | Lockdown | van_2dr_riot02 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/mixmaster.jpg "Car") | Mixmaster | truck_2dr_construct01 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/mule.jpg "Car") | Mule | truck_2dr_mover01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/nelson.jpg "Car") | Nelson | car_2dr_luxury04 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/neuron.jpg "Car") | Neuron | car_4dr_sports03 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/n-forcer.jpg "Car") | N-Forcer | suv_4dr_02 |
@@ -56,7 +48,6 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/nordberg.jpg "Car") | Nordberg | suv_4dr_04 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/nyte_blade.jpg "Car") | Nyte Blade | car_4dr_Nyte01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/peacemaker.jpg "Car") | Peacemaker | car_4dr_police02 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/peterliner.jpg "Car") | Peterliner | truck_2dr_semi01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/phoenix.jpg "Car") | Phoenix | car_2dr_muscle04 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/pony_cart.jpg "Car") | Pony Cart | sp_pony_cart01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/quasar.jpg "Car") | Quasar | suv_4dr_luxury06 |
@@ -66,25 +57,39 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/saints_crusader.jpg "Car") | Saints Crusader | sp_tank03_saints |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/saints_n-forcer.jpg "Car") | Saints N-Forcer | suv_4dr_02_saints |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/saints_raider.jpg "Car") | Saints Raider | sp_rover_01 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/scrubber.jpg "Car") | Scrubber | truck_2dr_cleaner01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/sexy_kitten.jpg "Car") | Sexy Kitten | car_2dr_exotic04_genki |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/solar.jpg "Car") | Solar | car_4dr_compact01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/solar_2.jpg "Car") | Solar 2 | car_4dr_compact01_yrn |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/sovereign.jpg "Car") | Sovereign | car_2dr_luxury05 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/status_quo.jpg "Car") | Status Quo | sp_limo01 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/steelport_municipal.jpg "Car") | Steelport Municipal | truck_2dr_garbage01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/taxi.jpg "Car") | Taxi | car_4dr_taxi01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/temptress.jpg "Car") | Temptress | car_2dr_exoticsports09 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/thorogood.jpg "Car") | Thorogood | truck_2dr_pickup03 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/thorogood_2.jpg "Car") | Thorogood 2 | truck_2dr_pickup03_dlc |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/titan.jpg "Car") | Titan | truck_2dr_armored01 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/torbitron.jpg "Car") | Torbitron | truck_4dr_pickup07_clns |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/torch.jpg "Car") | Torch | car_2dr_sports09 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/vortex.jpg "Car") | Vortex | car_2dr_exoticsports04 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/wakazashi.jpg "Car") | Wakazashi | car_4dr_sports02 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/westbury.jpg "Car") | Westbury | minivan_4dr_01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/wraith.jpg "Car") | Wraith | car_2dr_cybersports01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/zimos.jpg "Car") | Zimos | car_4dr_standard03 |
+
+## Trucks
+
+| Picture | Vehicle | Model Name |
+|:-------:|:-------:|:----------:|
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/ambulance.jpg "Truck") | Ambulance | sp_ambulance01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/blaze.jpg "Truck") | Blaze | truck_2dr_fire01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/criminal.jpg "Truck") | Criminal | truck_4dr_pickup07 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/criminal_2.jpg "Truck") | Criminal 2 | truck_4dr_pickup07_yrn |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/flatbed.jpg "Truck") | Flatbed | truck_2dr_flatbed01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_manapult.jpg "Truck") | Genki Manapult | truck_2dr_classic01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/mixmaster.jpg "Truck") | Mixmaster | truck_2dr_construct01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/mule.jpg "Truck") | Mule | truck_2dr_mover01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/peterliner.jpg "Truck") | Peterliner | truck_2dr_semi01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/scrubber.jpg "Truck") | Scrubber | truck_2dr_cleaner01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/steelport_municipal.jpg "Truck") | Steelport Municipal | truck_2dr_garbage01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/thorogood.jpg "Truck") | Thorogood | truck_2dr_pickup03 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/thorogood_2.jpg "Truck") | Thorogood 2 | truck_2dr_pickup03_dlc |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/titan.jpg "Truck") | Titan | truck_2dr_armored01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/torbitron.jpg "Truck") | Torbitron | truck_4dr_pickup07_clns |
 
 ## Bikes
 
