@@ -36,7 +36,6 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_cannon.jpg "Car") | Genki Cannon | sp_genki_cannon |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_manapult.jpg "Car") | Genki Manapult | truck_2dr_classic01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_mobile.jpg "Car") | Genki Mobile | car_4dr_genki |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_verminator.jpg "Car") | Genki Verminator | sp_atv01_Genki |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/go.jpg "Car") | Go | car_2dr_standard06 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/halberd.jpg "Car") | Halberd | car_2dr_compact04 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/hammer.jpg "Car") | Hammer | car_4dr_muscle01 |
@@ -94,12 +93,20 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/angry_tiger.jpg "Bike") | Angry Tiger | bike_exotic01_Genki |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/bloody_canoness.jpg "Bike") | Bloody Canoness | bike_BC01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/estrada.jpg "Bike") | Estrada | bike_standard02 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_verminator.jpg "Bike") | Genki Verminator | sp_atv01_Genki |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/kaneda.jpg "Bike") | Kaneda | bike_exotic01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/sandstorm.jpg "Bike") | Sandstorm | bike_dirt01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/verminator.jpg "Bike") | Verminator | sp_atv01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/widowmaker.jpg "Bike") | Widowmaker | bike_moped01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/x-2_phantom.jpg "Bike") | X-2 Phantom | bike_cyber01 |
 
 ## Boats
 
 | Picture | Vehicle | Model Name |
 |:-------:|:-------:|:----------:|
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/commander.jpg "Boat") | Commander | boat_speed04 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/miami.jpg "Boat") | Miami | boat_speed01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/shark.jpg "Boat") | Shark | boat_wavecraft01 |
 
 ## Planes
 
@@ -107,6 +114,10 @@
 |:-------:|:-------:|:----------:|
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/ab_destroyer.jpg "Plane") | AB Destroyer | plane_fighter02 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/gawalek_a36.jpg "Plane") | Gawalek A36 | plane_giant01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/snipes_57.jpg "Plane") | Snipes 57 | plane_jet01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/snipes_57_glitched.jpg "Plane") | Snipes 57 (Glitched) | plane_jet01_car_rig |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/stag_giant_plane.jpg "Plane") | STAG Giant Plane | plane_giant02 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/woodpecker.jpg "Plane") | Woodpecker | plane_standard01 |
 
 ## Helicopters
 
@@ -134,4 +145,15 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/f-69_vtol_stag.jpg "VTOL") | F-69 Stag | sp_vtol01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/f-69_vtol_stag_cutscene.jpg "VTOL") | F-69 Stag (Cutscene) | sp_vtol01_cs |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/f-69_vtol_stag_flyby.jpg "VTOL") | F-69 Stag (FlyBy) | sp_vtol01_flyby |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/interceptor.jpg "VTOL") | Interceptor | bike_jet02 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/saints_vtol.jpg "VTOL") | Saints VTOL | sp_vtol01_saints |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/salem.jpg "VTOL") | Salem | bike_broomstick01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/scythe.jpg "VTOL") | Scythe | bike_jet03 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/specter.jpg "VTOL") | Specter | bike_jet01 |
 
+## Others
+
+| Picture | Vehicle | Model Name |
+|:-------:|:-------:|:----------:|
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/sphere_glitched.jpg "Other") | Sphere (Glitched) | sp_mdsphere |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/yarnie.jpg "Other") | Yarnie | sp_mdsphere_genki |
