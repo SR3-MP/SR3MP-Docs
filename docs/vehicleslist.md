@@ -38,6 +38,54 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_mobile.jpg "Car") | Genki Mobile | car_4dr_genki |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/genki_verminator.jpg "Car") | Genki Verminator | sp_atv01_Genki |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/go.jpg "Car") | Go | car_2dr_standard06 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/halberd.jpg "Car") | Halberd | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/hammer.jpg "Car") | Hammer | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/hammerhead.jpg "Car") | Hammerhead | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/infuego.jpg "Car") | Infuego | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/justice.jpg "Car") | Justice | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/kayak.jpg "Car") | Kayak | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/kayak_2.jpg "Car") | Kayak 2 | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/keystone.jpg "Car") | Keystone | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/knoxville.jpg "Car") | Knoxville | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/lockdown.jpg "Car") | Lockdown | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/mixmaster.jpg "Car") | Mixmaster | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/mule.jpg "Car") | Mule | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/nelson.jpg "Car") | Nelson | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/neuron.jpg "Car") | Neuron | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/n-forcer.jpg "Car") | N-Forcer | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/n-forcer_2.jpg "Car") | N-Forcer 2 | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/nordberg.jpg "Car") | Nordberg | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/nyte_blade.jpg "Car") | Nyte Blade | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/peacemaker.jpg "Car") | Peacemaker | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/peterliner.jpg "Car") | Peterliner | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/phoenix.jpg "Car") | Phoenix | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/pony_cart.jpg "Car") | Pony Cart | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/quasar.jpg "Car") | Quasar | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/raycaster.jpg "Car") | Raycaster | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/reaper.jpg "Car") | Reaper | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/sad_panda.jpg "Car") | Sad Panda | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/saints_crusader.jpg "Car") | Saints Crusader | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/saints_n-forcer.jpg "Car") | Saints N-Forcer | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/saints_raider.jpg "Car") | Saints Raider | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/scrubber.jpg "Car") | Scrubber | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/sexy_kitten.jpg "Car") | Sexy Kitten | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/solar.jpg "Car") | Solar | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/solar_2.jpg "Car") | Solar 2 | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/sovereign.jpg "Car") | Sovereign | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/status_quo.jpg "Car") | Status Quo | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/steelport_municipal.jpg "Car") | Steelport Municipal | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/taxi.jpg "Car") | Taxi | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/temptress.jpg "Car") | Temptress | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/thorogood.jpg "Car") | Thorogood | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/thorogood_2.jpg "Car") | Thorogood 2 | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/titan.jpg "Car") | Titan | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/torbitron.jpg "Car") | Torbitron | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/torch.jpg "Car") | Torch | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/vortex.jpg "Car") | Vortex | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/wakazashi.jpg "Car") | Wakazashi | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/westbury.jpg "Car") | Westbury | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/wraith.jpg "Car") | Wraith | eeeeeeeeeeeeeeee |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/zimos.jpg "Car") | Zimos | eeeeeeeeeeeeeeee |
 
 ## Bikes
 
