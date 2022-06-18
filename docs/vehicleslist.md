@@ -21,7 +21,6 @@
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/bulldog_military.jpg "Car") | Bulldog (Military) | suv_4dr_luxury05T |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/challenger.jpg "Car") | Challenger | sp_tank01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/churchill.jpg "Car") | Churchill | car_4dr_standard07 |
-| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/compensator.jpg "Car") | Compensator | truck_4dr_pickup04 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/cosmos.jpg "Car") | Cosmos | car_2dr_standard03 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/crusader.jpg "Car") | Crusader | sp_tank03 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/crusader_2.jpg "Car") | Crusader 2 | sp_tank03_Reward |
@@ -77,6 +76,7 @@
 |:-------:|:-------:|:----------:|
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/ambulance.jpg "Truck") | Ambulance | sp_ambulance01 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/blaze.jpg "Truck") | Blaze | truck_2dr_fire01 |
+| ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/compensator.jpg "Truck") | Compensator | truck_4dr_pickup04 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/criminal.jpg "Truck") | Criminal | truck_4dr_pickup07 |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/criminal_2.jpg "Truck") | Criminal 2 | truck_4dr_pickup07_yrn |
 | ![alt text](https://raw.githubusercontent.com/K3rhos/SR3MP-Docs/main/docs/images/vehicles/flatbed.jpg "Truck") | Flatbed | truck_2dr_flatbed01 |
