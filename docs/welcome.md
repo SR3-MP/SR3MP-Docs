@@ -6,6 +6,6 @@ SR3MP docs to help developers creating mods with our custom framework. If you ha
 
 ## Preview
 
-<img src="https://i.imgur.com/0FkisxD.png" width="1280" height="720">
-<img src="https://i.imgur.com/ZWYAp2N.jpg" width="1280" height="720">
-<img src="https://i.imgur.com/BY6mJOA.jpg" width="1280" height="720">
+<img src="https://i.imgur.com/0FkisxD.png" width="640" height="360">
+<img src="https://i.imgur.com/ZWYAp2N.jpg" width="640" height="360">
+<img src="https://i.imgur.com/BY6mJOA.jpg" width="640" height="360">
