@@ -1,3 +1,6 @@
+> [!WARNING]
+> This docs is deprecated and will be completely rewritten in the future, since the scripting API will be redone.
+
 # Functions
 
 ---
